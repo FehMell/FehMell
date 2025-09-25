@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: [Linkedin!](https://www.linkedin.com/in/fernanda-mell/)
  
-- ⚡ Fun fact: Although I am at the beginning of my professional journey, I am highly motivated to learn and grow my skills.
+- ⚡ Fun fact: If I don’t know something, I make sure to learn it and find a solution.
 
 ## Statistics
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FehMell&show_icons=true&locale=en&layout=compact" alt="FehMell" /></p>
