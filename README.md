@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align = "center" > Olá, eu sou a Fernanda Mell! </h1>
 
-<!--
-**FehMell/FehMell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [BeautySalon!](https://github.com/FehMell/BeautySalon)
+  
+- 🌱 I’m currently learning **Node.JS and React!**
+
+- 📫 How to reach me: [Linkedin!](https://www.linkedin.com/in/fernanda-mell/)
+- 
+- ⚡ Fun fact: Although I am at the beginning of my professional journey, I am highly motivated to learn and grow my skills.
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FehMell&show_icons=true&locale=en&layout=compact" alt="FehMell" /></p>
