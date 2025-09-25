@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [BeautySalon!](https://github.com/FehMell/BeautySalon)
   
-- 🌱 I’m currently learning **Node.JS and React!**
+- 🌱 I’m currently learning **Java and React!**
 
 - 📫 How to reach me: [Linkedin!](https://www.linkedin.com/in/fernanda-mell/)
  
