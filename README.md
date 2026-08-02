@@ -21,3 +21,15 @@ Front-end Developer in development, passionate about creating modern, responsive
 Want to learn more about my experience, projects, and skills?
 
 🔗 **Interactive Resume:** https://fehmell.github.io/FehMell-CV/
+
+## 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,ts,java,spring,html,css,git,github,vscode,figma" />
+</p>
+
+## 💻 Most Used Languages
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FehMell&layout=compact&theme=transparent&hide_border=true" />
+</p>
