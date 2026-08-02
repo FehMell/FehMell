@@ -1,14 +1,23 @@
-<h1 align = "center" > Olá, eu sou a Fernanda Mell! </h1>
+<h1 align="center">Hi, I'm Fernanda Mell 👋</h1>
 
+<p align="center">
+Front-end Developer in development, passionate about creating modern, responsive, and user-friendly web experiences.
+</p>
 
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on [BeautySalon!](https://github.com/FehMell/BeautySalon)
-  
-- 🌱 I’m currently learning **Java and React!**
+* 💻 Front-end Developer in development, specializing in **React.js**, **JavaScript**, and **Tailwind CSS**.
+* 🚀 Building real-world projects while continuously improving my skills.
+* 🌱 Currently learning **Java** and **Spring Boot**.
+* ✨ I enjoy turning ideas into clean, accessible, and intuitive interfaces.
 
-- 📫 How to reach me: [Linkedin!](https://www.linkedin.com/in/fernanda-mell/)
- 
-- ⚡ Fun fact: If I don’t know something, I make sure to learn it and find a solution.
+## 📫 Connect with Me
 
-## Statistics
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FehMell&show_icons=true&locale=en&layout=compact" alt="FehMell" /></p>
+* 💼 LinkedIn: https://www.linkedin.com/in/fernanda-mell/
+* 📧 Email: [mell39654@gmail.com](mailto:mell39654@gmail.com)
+
+## 🌐 Get to Know Me Better
+
+Want to learn more about my experience, projects, and skills?
+
+🔗 **Interactive Resume:** https://fehmell.github.io/FehMell-CV/
